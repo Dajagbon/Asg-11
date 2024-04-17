@@ -1,14 +1,14 @@
 # Asg-11
-** a) Purpose of the Program(s):** The purpose of the character program is to have a void function that takes a string as input, and will calculate the number of numeric characters, lower case characters, upper case characters, and symbols contained in the string and displays them to the user.
+**a) Purpose of the Program(s):** The purpose of the dictionary program is to create dictionaries to represent a standard deck of 52 playing cards using the specified schema. 
 
-The purpose of the poem program is to have a function that takes an acrostic as the input and will return the secret message to the user.
+The purpose of the protein program is to have a function that takes an RNA molecule as an input and will output the encoded protein. 
 
-b) Input: The character program's input is the string input and the provided information. The poem program's input is the acrostic input and the provided information.
+**b) Input:** The dictionary program does not have an input. The protein program input is the RNA sequence.
 
-c) Expected Output: The character program's output is the number of numeric characters, lower case characters, upper case characters, and symbols contained in the string. The poem program is a secret message from the given information.
+**c) Expected Output:** The dictionary program does not have an output. The protein program output is the length of the encoded protein, the most commonly occurring codon, and lastly, the encoded protein.
 
-d) Type of Execution: The type(s) of execution for the character and poem program is Conditional execution.
+**d) Type of Execution:** The type(s) of execution for the dictionary program is sequential execution and the protein program is conditional execution. Adding comments.
 
-e) Possible Improvements: The character program could be improved by: Adding written code to handle unexpected errors or adding input validation to check if the user entered the expected string.
+**e) Possible Improvements:** The dictionary  program could be improved by: making a better structure for the dictionary by using nested dictionaries or lists of tuples.
 
-The poem program could be improved by: making it possible for the user to input their acrostic poem. I could also add explanations in my program for what each part does.
+The protein program could be improved by: adding handle upper and lower case input and adding comments.
